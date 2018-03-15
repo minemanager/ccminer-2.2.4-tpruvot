@@ -24,3 +24,4 @@ CUDA_CFLAGS="-O3 -lineno -Xcompiler -Wall  -D_FORCE_INLINES" \
 make -j 4
 make install
 cd ..
+reboot
